@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 version: '3'
 
 services:
@@ -29,3 +30,6 @@ services:
 
 volumes:
   mysql-data:
+=======
+
+>>>>>>> c783c21c1d07db67cac6e961596d6ab28a41b735
